@@ -26,4 +26,3 @@ A few things worth noting from my experience taking this course:
   were not provided solutions. So, you'll have to figure them out on
   your own!
 
-- Paul Goldsmith-Pinkham (Harvard Ph.D., 2015)
